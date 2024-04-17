@@ -11,7 +11,7 @@ This Python script organizes files in a specified directory based on their file 
 
 ## How to Use
 1. Choose or specify the directory where the files are located.
-2. Run the Python script `file_organizer.py`.
+2. Run the Python script `File Organizer.ipynb`.
 3. The script will categorize the files based on their extensions and move them to their respective folders.
 4. Review the organized folders to ensure files are correctly categorized.
 
